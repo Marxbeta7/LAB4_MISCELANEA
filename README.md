@@ -1,5 +1,5 @@
 # LAB4_MISCELANEA
-Programas miscelánea de c++
+Reposición Programas miscelánea de c++
 
 Elaborar los siguientes programas
 
